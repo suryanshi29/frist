@@ -1,1 +1,1 @@
-# clone of disney host star
+# Clone of Disney Host Star
